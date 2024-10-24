@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://xuhisoga.github.io/sitemap/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/qBT/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/iLB/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/Bgv/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/CWV/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/olL/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/xOK/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/vcJ/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/Hhr/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/skJ/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/RPp/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/yeP/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/QJH/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/jya/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/rVY/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/NRt/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/TiV/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/LxV/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/Msh/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/FHx/sitemap_index.xuhisoga
+Sitemap: https://xuhisoga.github.io/OgW/sitemap_index.xuhisoga
